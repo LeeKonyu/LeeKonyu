@@ -23,6 +23,5 @@ Here are some ideas to get you started:
 [![邮箱](https://img.shields.io/static/v1?label=邮箱&message=QQ邮箱&color=5194f0&logo=gmail&style=flat-square&logoColor=white)](mailto:leekyabc@qq.com)
   
   
-👨‍💻 A gamer.  
-👨‍🎓 Studying in CQUPT.
+👨‍🎓 Studying in NJU.
 
